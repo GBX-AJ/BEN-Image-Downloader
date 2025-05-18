@@ -8,3 +8,7 @@ In the app, just below the Clear & Reset is the HTML Text box, paste the HTML co
 Then press Extract Image URLs button, the code reads the HTML script, find all the images and modifies to ensure that the Highet Resolution is selected. All the links of the images would be pasted in the box below the Extract Image Urls button.
 
 Select the desitnation folder where you want to download the files and then press Download Images. The progress bar indicates the download progress. Once done a Pop-up confirms the status.
+
+Please install the belowe repositories if you want to run the script.
+
+customtkinter, tkinter, requests
